@@ -100,10 +100,13 @@ If you use AraStories in your research, please cite our paper:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Ethical Considerations
+Similar to other generative models, our model can reflect the bias in its data. Any use of the model should take this into account.
 
-We would like to thank the contributors and collaborators who made this project possible.
-
+## Acknowledgments
+We acknowledge support from Canada Research
+Chairs (CRC), the Natural Sciences and Engineering Research Council of Canada (NSERC; RGPIN2018-04267), the Social Sciences and Humanities Research Council of Canada (SSHRC; 435-2018-0576; 895-2020-1004; 895-2021-1008), Canadian
+Foundation for Innovation (CFI; 37771), Digital Research Alliance of Canada, and UBC ARCSockeye.
 ---
 
 Feel free to modify and expand upon this template to better suit your project's specifics and your preferences.
