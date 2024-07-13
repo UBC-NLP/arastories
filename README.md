@@ -1,7 +1,8 @@
 # AraStories: Arabic Automatic Story Generation with Large Language Models
 
 
-This repository contains the code and data related to our paper [AraStories: An Extensive Benchmark and Dataset for Arabic Story Understanding and Commonsense Reasoning](https://arxiv.org/abs/2407.07551), published on arXiv.
+This repository contains the code and data related to our paper [Arabic Automatic Story Generation with Large Language Models
+](https://arxiv.org/abs/2407.07551), published on arXiv.
 
 ## Overview
 
