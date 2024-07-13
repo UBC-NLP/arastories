@@ -6,7 +6,7 @@ This repository contains the code and data related to our paper [Arabic Automati
 
 ## Overview
 
-**AraStories** is a comprehensive benchmark and dataset designed to facilitate research in the areas of story understanding and commonsense reasoning in Arabic. The dataset includes a wide variety of stories and corresponding questions that challenge models to exhibit a deep understanding of narrative structures and commonsense knowledge in the Arabic language.
+**AraStories** is a comprehensive set of models and datasets designed to facilitate research in the area of story generation for MSA and Egyptian and Moroccan Arabic. The dataset includes a wide variety of stories and corresponding questions that challenge models to exhibit a deep understanding of narrative structures and commonsense knowledge in the Arabic language.
 
 ## Contents
 
@@ -21,8 +21,7 @@ This repository contains the code and data related to our paper [Arabic Automati
 The AraStories dataset consists of:
 
 - **Stories**: A diverse collection of Arabic stories from various genres and sources.
-- **Questions**: Questions related to the stories designed to test different aspects of story understanding and commonsense reasoning.
-- **Annotations**: Human-annotated answers and rationales.
+- **Prompts**: Prompts related to the stories designed to test different aspects of story generation.
 
 ### Download
 
