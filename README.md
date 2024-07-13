@@ -1,9 +1,3 @@
-# AraStories
-Here is a sample README content for your GitHub repository related to the paper "Arabic Automatic Story Generation with Large Language Models
-":
-
----
-
 # AraStories: Arabic Automatic Story Generation with Large Language Models
 
 
