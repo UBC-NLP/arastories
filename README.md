@@ -6,7 +6,7 @@ This repository contains the code and data related to our paper [Arabic Automati
 
 ## Overview
 
-**AraStories** is a comprehensive set of models and datasets designed to facilitate research in the area of story generation for MSA and Egyptian and Moroccan Arabic. The dataset includes a wide variety of stories and corresponding questions that challenge models to exhibit a deep understanding of narrative structures and commonsense knowledge in the Arabic language.
+**AraStories** is a comprehensive set of models and datasets designed to facilitate research in the area of story generation for MSA and it's different dialects (Egyptian and Moroccan in this work). The dataset includes a wide variety of stories and corresponding prompts that challenge models to exhibit a deep performance of Arabic story generation structures and commonsense knowledge in the Arabic language.
 
 ## Contents
 
