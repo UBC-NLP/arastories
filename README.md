@@ -5,7 +5,7 @@ This repository contains the code and data related to our paper [Arabic Automati
 ](https://arxiv.org/abs/2407.07551), published on arXiv.
 
 ## Overview
-
+[examples](examples_generated_by_our_models_final.pdf)
 **AraStories** is a comprehensive set of models and datasets designed to facilitate research in the area of story generation for MSA and its different dialects (Egyptian and Moroccan in this work). The dataset includes a wide variety of stories and corresponding prompts that challenge models to exhibit a deep performance of Arabic story generation structures and commonsense knowledge in the Arabic language.
 
 ## Contents
