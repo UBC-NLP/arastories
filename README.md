@@ -2,15 +2,15 @@
 
 
 This repository contains the code and data related to our paper [Arabic Automatic Story Generation with Large Language Models
-](https://arxiv.org/abs/2407.07551), published on arXiv.
+](https://arxiv.org/abs/2407.07551), published on the 2nd edition of ArabicNLP conference, Co-located with ACL 2024 Bangkok, Thailand.
 
 ## Overview
 ![examples](preview-1.png)
-**AraStories** is a comprehensive set of models and datasets designed to facilitate research in the area of story generation for MSA and its different dialects (Egyptian and Moroccan in this work). The dataset includes a wide variety of stories and corresponding prompts that challenge models to exhibit a deep performance of Arabic story generation structures and commonsense knowledge in the Arabic language.
+**AraStories** is a comprehensive set of models and datasets designed to facilitate research in the area of story generation for MSA and its different dialects (e.g., Egyptian and Moroccan in this work). The dataset includes a wide variety of stories and corresponding prompts that challenge models to exhibit a deep performance of Arabic story generation structures and common knowledge in the Arabic language.
 
 ## Contents
 
-- `data/`: Contains the AraStories dataset in various formats.
+- `data/`: Contains the AraStories dataset in CSV formats.
 - `src/`: Source code for preprocessing, training, and evaluation.
 - `models/`: Pre-trained models and checkpoints.
 - `notebooks/`: Jupyter notebooks for data exploration and analysis.
@@ -18,16 +18,16 @@ This repository contains the code and data related to our paper [Arabic Automati
 
 ## Dataset
 
-The AraStories dataset consists of:
+The AraStories dataset consists of 3 CSV files, each file contains one of the three Arabic varieties covered in our work: Modern Standard Arabic(MSA), Egyptian, and Moroccan. Each file contains two columns:
 
-- **Stories**: A diverse collection of Arabic stories from various genres and sources.
-- **Prompts**: Prompts related to the stories designed to test different aspects of story generation.
+- **Story**: A diverse collection of Arabic stories from various genres and sources.
+- **Prompt**: Prompts used to generate those stories.
 
 ### Download
 
-You can download the dataset from the following link:
+You can download the dataset from the data folder in this GitHub repo.
 
-[Download AraStories Dataset](https://example.com/download)
+
 
 ## Getting Started
 
