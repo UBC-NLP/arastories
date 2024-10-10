@@ -109,4 +109,3 @@ We acknowledge support from Canada Research Chairs (CRC), the Natural Sciences a
 
 ---
 
-Feel free to modify and expand upon this template to better suit your project's specifics and your preferences.
